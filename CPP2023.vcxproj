@@ -19,11 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Filmes.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Filmes.cpp" />
-    <ClCompile Include="FilmesNetFlix.cpp" />
+    <ClCompile Include="SomandoInteiros.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
