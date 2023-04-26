@@ -10,7 +10,7 @@ public:
 	Estados(string);              // construtor inicializa o nome do estado
 	void setNomeDoEstado(string); // configura o nome do estado
 	string getNomeDoEstado();     // recupera o nome do estado
-	void ShowEstado();            // mostr uma mensagem
+	void ShowEstado();            // mostra uma mensagem
 	void NotaEstado();            // insere as notas
 	void mostraEstadoNota();      // mostra um relatorio de notas
 private:

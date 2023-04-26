@@ -41,9 +41,9 @@ void Estados::ShowEstado()
 void Estados::NotaEstado()
 {
 	int grade;
-	cout << "Digite as letras das grades " << endl;
+	cout << "Digite as letras das grades A B C D F " << endl;
 
-	while ((grade = cin.get()) != EOF )
+	while ((grade = cin.get()) != EOF )    // ctrl + z (pra fim de arquivo)
 	{
 		switch (grade)
 		{
