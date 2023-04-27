@@ -19,11 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Estados.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="EstadoDoBrasil.cpp" />
-    <ClCompile Include="Estados.cpp" />
+    <ClCompile Include="ProgramacaoEstruturada.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
